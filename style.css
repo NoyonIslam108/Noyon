@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    color: rgb(248, 187, 3);
+    font-size: 20px;
+    font-weight:bolder;
+}
+.navbar-brand:hover{
+    color:rgb(248, 187, 3);
+}
+.navbar-nav li a{
+    color: black;
+    font-weight: 500;
+}
+.navbar-nav li a:hover{
+    color:rgb(248, 187, 3);
+}
+.home-secson{
+    align-items: center;
+}
+.home-text h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+.home-text p{
+    text-align: justify;
+    font-weight: 500;
+}

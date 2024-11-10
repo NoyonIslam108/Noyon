@@ -30,3 +30,8 @@
     text-align: justify;
     font-weight: 500;
 }
+@media only screen and (max-width:575.9px){
+    .home-imgs img{
+        margin-left: -80px;
+    }
+}

@@ -33,6 +33,24 @@
 .navbar-nav .nav-item{
     text-align: right;
 }
+
+
+
+
+
+
+
+
+.about-sech{
+    align-items: center;
+    margin-top: 110px;
+}
+.about-text h1{
+    font-weight: bolder;
+}
+.about-text p{
+    text-align: justify;
+}
 @media only screen and (max-width:575.9px){
     .home-imgs img{
         align-items: center;

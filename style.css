@@ -44,12 +44,35 @@
 .about-sech{
     align-items: center;
     margin-top: 110px;
+    margin-bottom: 200px;
 }
 .about-text h1{
     font-weight: bolder;
 }
 .about-text p{
     text-align: justify;
+}
+
+
+
+
+
+
+
+.my-skills{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.my-skills h1{
+    text-align: center;
+}
+.my-skills p{
+    text-align: center;
+}
+
+
+.progress-bar{
+    
 }
 @media only screen and (max-width:575.9px){
     .home-imgs img{

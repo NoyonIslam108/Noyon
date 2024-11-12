@@ -173,8 +173,22 @@
 
 
 
+
+.form-label{
+    color: black;
+    line-height: 30px;
+}
 .inputur{
     width: 100%;
+    border: 1px solid rgb(248, 187, 3);
+    height: 40px;
+    border-radius: 10px;
+}
+.contacatusc{
+    margin-bottom: 100px;
+}
+.homesesgs{
+    margin-top: 100px;
 }
 
 

@@ -91,9 +91,15 @@
     .home-imgs img{
         align-items: center;
     }
+    .inputur{
+        width:100%;
+    }
 }
 @media only screen and (min-width:576px) and (max-width:767.9px){
     .home-imgs img{
         align-items: center;
+    }
+    .inputur{
+        width:100%;
     }
 }
